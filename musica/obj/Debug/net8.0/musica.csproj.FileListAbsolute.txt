@@ -1,0 +1,14 @@
+C:\Users\user\musica\bin\Debug\net8.0\musica.exe
+C:\Users\user\musica\bin\Debug\net8.0\musica.deps.json
+C:\Users\user\musica\bin\Debug\net8.0\musica.runtimeconfig.json
+C:\Users\user\musica\bin\Debug\net8.0\musica.dll
+C:\Users\user\musica\bin\Debug\net8.0\musica.pdb
+C:\Users\user\musica\obj\Debug\net8.0\musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\musica\obj\Debug\net8.0\musica.AssemblyInfoInputs.cache
+C:\Users\user\musica\obj\Debug\net8.0\musica.AssemblyInfo.cs
+C:\Users\user\musica\obj\Debug\net8.0\musica.csproj.CoreCompileInputs.cache
+C:\Users\user\musica\obj\Debug\net8.0\musica.dll
+C:\Users\user\musica\obj\Debug\net8.0\refint\musica.dll
+C:\Users\user\musica\obj\Debug\net8.0\musica.pdb
+C:\Users\user\musica\obj\Debug\net8.0\musica.genruntimeconfig.cache
+C:\Users\user\musica\obj\Debug\net8.0\ref\musica.dll
